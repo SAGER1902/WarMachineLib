@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "wmlib/mixin/WMCameraMixin": {
+      "setup(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/world/entity/Entity;ZZF)V": "Lnet/minecraft/client/Camera;m_90575_(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/world/entity/Entity;ZZF)V",
+      "Lnet/minecraft/client/Camera;setRotation(FF)V": "Lnet/minecraft/client/Camera;m_90572_(FF)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "wmlib/mixin/WMCameraMixin": {
+        "setup(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/world/entity/Entity;ZZF)V": "Lnet/minecraft/client/Camera;m_90575_(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/world/entity/Entity;ZZF)V",
+        "Lnet/minecraft/client/Camera;setRotation(FF)V": "Lnet/minecraft/client/Camera;m_90572_(FF)V"
+      }
+    }
+  }
+}
