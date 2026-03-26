@@ -8,6 +8,6 @@
 
 这其中obj加载器等相关部分代码来自于 [ModularWarfare-Shining](https://github.com/mchhui/MWF-SHINING)
 
-其中关于摄像机视角的mixin和计算,曲射的计算,来自于[SuperbWarfare](http://gitee.com/atsuishio/SuperbWarfare)
+其中关于摄像机mixin和视角计算,曲射的计算,来自于[SuperbWarfare](http://gitee.com/atsuishio/SuperbWarfare)已与制作组沟通获得使用许可
 
 模组包中的原创模型贴图等资源按MIT协议发布
