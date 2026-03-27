@@ -1,14 +1,14 @@
 Java Launcher: D:\gradle-8.8\lib\jdks\azul_systems__inc_-8-amd64-windows\zulu8.86.0.25-ca-fx-jdk8.0.452-win_x64\bin\java.exe
-Arguments: '--input, D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\build\libs\wmlib-1.2.jar, --output, D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\build\reobfJar\output.jar, --names, D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\build\reobfJar\mappings.tsrg, --lib, D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\libs\AdvanceArmy-1.16.5-2.7-release.jar, --lib, D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\libs\SAFX-1.16.5-1.1.jar, --lib, D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\libs\[HungTeen的植物大战僵尸] pvzmod-1.16.5-0.6.5.jar, --lib, D:\gradle-8.8\lib\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.42_mapped_official_1.16.5\forge-1.16.5-36.2.42_mapped_official_1.16.5.jar, --lib, D:\gradle-8.8\lib\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.42_mapped_official_1.16.5\forge-1.16.5-36.2.42_mapped_official_1.16.5-launcher.jar, --lib, D:\gradle-8.8\lib\caches\forge_gradle\minecraft_repo\versions\1.16.5\client-extra.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.0.9\d1e1ba354a40b5703340b5cb02fdca489cff3646\mergetool-1.0.9-api.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\cpw.mods\modlauncher\8.1.3\6d0bfd78e025a87d43985e30907aa9ecbc51b2d6\modlauncher-8.1.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.6\f1a9e5508eff490744144565c47326c8648be309\asm-commons-9.6.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.6\f77caf84eb93786a749b2baa40865b9613e3eaee\asm-util-9.6.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.6\9ce6c7b174bd997fc2552dff47964546bd7a5ec3\asm-analysis-9.6.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.6\c0cdda9d211e965d2a4448aa3fd86110f2f8c2de\asm-tree-9.6.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.ow2.asm\asm\9.6\aa205cf0a06dbd8e04ece91c0b37c3f5d567546a\asm-9.6.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\cpw.mods\grossjava9hacks\1.3.3\e49222512ea6cabdd8b49761cef1d5a207b1f0d9\grossjava9hacks-1.3.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecraftforge\accesstransformers\3.0.1\6d23c1b9cb0607fddc38d09730796f68db96f546\accesstransformers-3.0.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.antlr\antlr4-runtime\4.9.1\428664f05d2b7f7b7610204b5aa7c1763f62011a\antlr4-runtime-4.9.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecraftforge\eventbus\4.0.0\260e34800723e4c098c4e247cf2b900535e01b6d\eventbus-4.0.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecraftforge\forgespi\3.2.0\c6ca4e4e4a0343701407c760e642537b613b543\forgespi-3.2.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecraftforge\coremods\4.0.6\d6d761379c841e2610abebcbf70ed20b65f728f0\coremods-4.0.6.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecraftforge\unsafe\0.2.0\54d7a0a5e8fdb71b973025caa46f341ae5904f39\unsafe-0.2.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.electronwill.night-config\toml\3.6.3\2b05b4d606c517da4d1a7b6d2b97d751c92887d7\toml-3.6.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.electronwill.night-config\core\3.6.3\c601bfeaeb2c0abe7aaa901b0bbe6d1beff49281\core-3.6.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.jline\jline\3.12.1\de2bd909cb9f8eaa741bd03df4a1bd3f6eb593c7\jline-3.12.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.6.3\f8ff8032903882376e8d000c51e3e16d20fc7df7\maven-artifact-3.6.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.jodah\typetools\0.8.3\98f84f353457629e81cc6827224871b1a8faa7af\typetools-0.8.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecrell\terminalconsoleappender\1.2.0\96d02cd3b384ff015a8fef4223bcb4ccf1717c95\terminalconsoleappender-1.2.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.15.0\ba55c13d7ac2fd44df9cc8074455719a33f375b9\log4j-core-2.15.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j18-impl\2.15.0\88f72ad364bfc3a7cf43186fc17212f2b4bb8d97\log4j-slf4j18-impl-2.15.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.15.0\4a5aa7e55a29391c6f66e0b259d5189aa11e45d0\log4j-api-2.15.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.spongepowered\mixin\0.8.4\4ec7d77d9ab32596ca0b78bb123956734767e3a\mixin-0.8.4.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecraftforge\nashorn-core-compat\15.1.1.1\1817deb38a5a8811148dca0d23161d92bdbd6184\nashorn-core-compat-15.1.1.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.mojang\patchy\1.3.9\eb8bb7b66fa0e2152b1b40b3856e82f7619439ee\patchy-1.3.9.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\oshi-project\oshi-core\1.1\9ddf7b048a8d701be231c0f4f95fd986198fd2d8\oshi-core-1.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.java.dev.jna\jna\4.4.0\cb208278274bf12ebdb56c61bd7407e6f774d65a\jna-4.4.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.java.dev.jna\platform\3.4.0\e3f70017be8100d3d6923f50b3d2ee17714e9c13\platform-3.4.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.ibm.icu\icu4j\66.1\72c7519b6d91f7a1f993bd44a99fe95d67211b27\icu4j-66.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.mojang\javabridge\1.0.22\6aa6453aa99a52a5cd91749da1af6ab70e082ab3\javabridge-1.0.22.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\io.netty\netty-all\4.1.25.Final\d0626cd3108294d1d58c05859add27b4ef21f83b\netty-all-4.1.25.Final.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.google.guava\guava\21.0\3a3d111be1be1b745edfa7d91678a12d7ed38709\guava-21.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.8.1\6505a72a097d9270f7a9e7bf42c4238283247755\commons-lang3-3.8.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.3.3\18f4247ff4572a074444572cee34647c43e7c9c7\httpclient-4.3.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\commons-codec\commons-codec\1.10\4b95f4897fa13f2cd904aee711aeafc0c5295cd8\commons-codec-1.10.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.java.jinput\jinput\2.0.5\39c7796b469a600f72380316f6b1f11db6c2c7c4\jinput-2.0.5.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.java.jutils\jutils\1.0.0\e12fe1fda814bd348c1579329c86943d2cd3c6a6\jutils-1.0.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.mojang\brigadier\1.0.17\c6b7dc51dd44379cc751b7504816006e9be4b1e6\brigadier-1.0.17.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.mojang\datafixerupper\4.0.26\ebd6690f33871ccee9b6132c6480668ee2e35020\datafixerupper-4.0.26.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.mojang\authlib\2.1.28\ad54da276bf59983d02d5ed16fc14541354c71fd\authlib-2.1.28.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.8.1\a698750c16740fd5b3871425f4cb3bbaa87f529d\commons-compress-1.8.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\commons-logging\commons-logging\1.1.3\f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f\commons-logging-1.1.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.3.2\31fbbff1ddbf98f3aa7377c94d33b0447c646b6e\httpcore-4.3.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.2.1\5ad88f325e424f8dbc2be5459e21ea5cab3864e9\fastutil-8.2.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.2.2\ee8e57a79300f78294576d87c4a587f8c99402e2\lwjgl-jemalloc-3.2.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.2.2\2b772a102b0a11ee5f2109a5b136f4dc7c630827\lwjgl-openal-3.2.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.2.2\6ac5bb88b44c43ea195a570aab059f63da004cd8\lwjgl-opengl-3.2.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.2.2\d3ad4df38e400b8afba1de63f84338809399df5b\lwjgl-glfw-3.2.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.2.2\3b8e6ebc5851dd3d17e37e5cadce2eff2a429f0f\lwjgl-stb-3.2.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.2.2\fcbe606c8f8da6f8f9a05e2c540eb1ee8632b0e9\lwjgl-tinyfd-3.2.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.2.2\8ad6294407e15780b43e84929c40e4c5e997972e\lwjgl-3.2.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.mojang\text2speech\1.11.3\f378f889797edd7df8d32272c06ca80a1b6b0f58\text2speech-1.11.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.2.1\13b015768e0d04849d2794e4c47eb02d01a0de32\plexus-utils-3.2.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.8.0-beta4\83b0359d847ee053d745be7ec0d8e9e8a44304b4\slf4j-api-1.8.0-beta4.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.jline\jline-reader\3.12.1\4382ab1382c7b6f379377ed5f665dc2f6e1218bc\jline-reader-3.12.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar, --disable-abstract-param'
+Arguments: '--input, D:\1.16.5mixin\wmlib\war-machine-lib\build\libs\wmlib-1.2.jar, --output, D:\1.16.5mixin\wmlib\war-machine-lib\build\reobfJar\output.jar, --names, D:\1.16.5mixin\wmlib\war-machine-lib\build\reobfJar\mappings.tsrg, --lib, D:\1.16.5mixin\wmlib\war-machine-lib\libs\AdvanceArmy-1.16.5-2.7-release.jar, --lib, D:\1.16.5mixin\wmlib\war-machine-lib\libs\SAFX-1.16.5-1.1.jar, --lib, D:\1.16.5mixin\wmlib\war-machine-lib\libs\[HungTeen的植物大战僵尸] pvzmod-1.16.5-0.6.5.jar, --lib, D:\gradle-8.8\lib\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.42_mapped_official_1.16.5\forge-1.16.5-36.2.42_mapped_official_1.16.5.jar, --lib, D:\gradle-8.8\lib\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.42_mapped_official_1.16.5\forge-1.16.5-36.2.42_mapped_official_1.16.5-launcher.jar, --lib, D:\gradle-8.8\lib\caches\forge_gradle\minecraft_repo\versions\1.16.5\client-extra.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.0.9\d1e1ba354a40b5703340b5cb02fdca489cff3646\mergetool-1.0.9-api.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\cpw.mods\modlauncher\8.1.3\6d0bfd78e025a87d43985e30907aa9ecbc51b2d6\modlauncher-8.1.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.6\f1a9e5508eff490744144565c47326c8648be309\asm-commons-9.6.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.6\f77caf84eb93786a749b2baa40865b9613e3eaee\asm-util-9.6.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.6\9ce6c7b174bd997fc2552dff47964546bd7a5ec3\asm-analysis-9.6.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.6\c0cdda9d211e965d2a4448aa3fd86110f2f8c2de\asm-tree-9.6.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.ow2.asm\asm\9.6\aa205cf0a06dbd8e04ece91c0b37c3f5d567546a\asm-9.6.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\cpw.mods\grossjava9hacks\1.3.3\e49222512ea6cabdd8b49761cef1d5a207b1f0d9\grossjava9hacks-1.3.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecraftforge\accesstransformers\3.0.1\6d23c1b9cb0607fddc38d09730796f68db96f546\accesstransformers-3.0.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.antlr\antlr4-runtime\4.9.1\428664f05d2b7f7b7610204b5aa7c1763f62011a\antlr4-runtime-4.9.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecraftforge\eventbus\4.0.0\260e34800723e4c098c4e247cf2b900535e01b6d\eventbus-4.0.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecraftforge\forgespi\3.2.0\c6ca4e4e4a0343701407c760e642537b613b543\forgespi-3.2.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecraftforge\coremods\4.0.6\d6d761379c841e2610abebcbf70ed20b65f728f0\coremods-4.0.6.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecraftforge\unsafe\0.2.0\54d7a0a5e8fdb71b973025caa46f341ae5904f39\unsafe-0.2.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.electronwill.night-config\toml\3.6.3\2b05b4d606c517da4d1a7b6d2b97d751c92887d7\toml-3.6.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.electronwill.night-config\core\3.6.3\c601bfeaeb2c0abe7aaa901b0bbe6d1beff49281\core-3.6.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.jline\jline\3.12.1\de2bd909cb9f8eaa741bd03df4a1bd3f6eb593c7\jline-3.12.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.6.3\f8ff8032903882376e8d000c51e3e16d20fc7df7\maven-artifact-3.6.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.jodah\typetools\0.8.3\98f84f353457629e81cc6827224871b1a8faa7af\typetools-0.8.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecrell\terminalconsoleappender\1.2.0\96d02cd3b384ff015a8fef4223bcb4ccf1717c95\terminalconsoleappender-1.2.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.15.0\ba55c13d7ac2fd44df9cc8074455719a33f375b9\log4j-core-2.15.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j18-impl\2.15.0\88f72ad364bfc3a7cf43186fc17212f2b4bb8d97\log4j-slf4j18-impl-2.15.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.15.0\4a5aa7e55a29391c6f66e0b259d5189aa11e45d0\log4j-api-2.15.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.spongepowered\mixin\0.8.4\4ec7d77d9ab32596ca0b78bb123956734767e3a\mixin-0.8.4.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.minecraftforge\nashorn-core-compat\15.1.1.1\1817deb38a5a8811148dca0d23161d92bdbd6184\nashorn-core-compat-15.1.1.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.mojang\patchy\1.3.9\eb8bb7b66fa0e2152b1b40b3856e82f7619439ee\patchy-1.3.9.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\oshi-project\oshi-core\1.1\9ddf7b048a8d701be231c0f4f95fd986198fd2d8\oshi-core-1.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.java.dev.jna\jna\4.4.0\cb208278274bf12ebdb56c61bd7407e6f774d65a\jna-4.4.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.java.dev.jna\platform\3.4.0\e3f70017be8100d3d6923f50b3d2ee17714e9c13\platform-3.4.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.ibm.icu\icu4j\66.1\72c7519b6d91f7a1f993bd44a99fe95d67211b27\icu4j-66.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.mojang\javabridge\1.0.22\6aa6453aa99a52a5cd91749da1af6ab70e082ab3\javabridge-1.0.22.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\io.netty\netty-all\4.1.25.Final\d0626cd3108294d1d58c05859add27b4ef21f83b\netty-all-4.1.25.Final.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.google.guava\guava\21.0\3a3d111be1be1b745edfa7d91678a12d7ed38709\guava-21.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.8.1\6505a72a097d9270f7a9e7bf42c4238283247755\commons-lang3-3.8.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.3.3\18f4247ff4572a074444572cee34647c43e7c9c7\httpclient-4.3.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\commons-codec\commons-codec\1.10\4b95f4897fa13f2cd904aee711aeafc0c5295cd8\commons-codec-1.10.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.java.jinput\jinput\2.0.5\39c7796b469a600f72380316f6b1f11db6c2c7c4\jinput-2.0.5.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\net.java.jutils\jutils\1.0.0\e12fe1fda814bd348c1579329c86943d2cd3c6a6\jutils-1.0.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.mojang\brigadier\1.0.17\c6b7dc51dd44379cc751b7504816006e9be4b1e6\brigadier-1.0.17.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.mojang\datafixerupper\4.0.26\ebd6690f33871ccee9b6132c6480668ee2e35020\datafixerupper-4.0.26.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.mojang\authlib\2.1.28\ad54da276bf59983d02d5ed16fc14541354c71fd\authlib-2.1.28.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.8.1\a698750c16740fd5b3871425f4cb3bbaa87f529d\commons-compress-1.8.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\commons-logging\commons-logging\1.1.3\f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f\commons-logging-1.1.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.3.2\31fbbff1ddbf98f3aa7377c94d33b0447c646b6e\httpcore-4.3.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.2.1\5ad88f325e424f8dbc2be5459e21ea5cab3864e9\fastutil-8.2.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.2.2\ee8e57a79300f78294576d87c4a587f8c99402e2\lwjgl-jemalloc-3.2.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.2.2\2b772a102b0a11ee5f2109a5b136f4dc7c630827\lwjgl-openal-3.2.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.2.2\6ac5bb88b44c43ea195a570aab059f63da004cd8\lwjgl-opengl-3.2.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.2.2\d3ad4df38e400b8afba1de63f84338809399df5b\lwjgl-glfw-3.2.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.2.2\3b8e6ebc5851dd3d17e37e5cadce2eff2a429f0f\lwjgl-stb-3.2.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.2.2\fcbe606c8f8da6f8f9a05e2c540eb1ee8632b0e9\lwjgl-tinyfd-3.2.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.2.2\8ad6294407e15780b43e84929c40e4c5e997972e\lwjgl-3.2.2.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\com.mojang\text2speech\1.11.3\f378f889797edd7df8d32272c06ca80a1b6b0f58\text2speech-1.11.3.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.2.1\13b015768e0d04849d2794e4c47eb02d01a0de32\plexus-utils-3.2.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.8.0-beta4\83b0359d847ee053d745be7ec0d8e9e8a44304b4\slf4j-api-1.8.0-beta4.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.jline\jline-reader\3.12.1\4382ab1382c7b6f379377ed5f665dc2f6e1218bc\jline-reader-3.12.1.jar, --lib, D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar, --disable-abstract-param'
 Classpath:
  - D:\gradle-8.8\lib\caches\forge_gradle\maven_downloader\net\minecraftforge\renamer\2.0.4\renamer-2.0.4-all.jar
-Working directory: D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\build\reobfJar
+Working directory: D:\1.16.5mixin\wmlib\war-machine-lib\build\reobfJar
 Main class: net.minecraftforge.renamer.Main
 ====================================
 Forge Renamer v2.0.4
-lib: D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\libs\AdvanceArmy-1.16.5-2.7-release.jar
-lib: D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\libs\SAFX-1.16.5-1.1.jar
-lib: D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\libs\[HungTeen??????????????] pvzmod-1.16.5-0.6.5.jar
+lib: D:\1.16.5mixin\wmlib\war-machine-lib\libs\AdvanceArmy-1.16.5-2.7-release.jar
+lib: D:\1.16.5mixin\wmlib\war-machine-lib\libs\SAFX-1.16.5-1.1.jar
+lib: D:\1.16.5mixin\wmlib\war-machine-lib\libs\[HungTeen??????????????] pvzmod-1.16.5-0.6.5.jar
 lib: D:\gradle-8.8\lib\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.42_mapped_official_1.16.5\forge-1.16.5-36.2.42_mapped_official_1.16.5.jar
 lib: D:\gradle-8.8\lib\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.42_mapped_official_1.16.5\forge-1.16.5-36.2.42_mapped_official_1.16.5-launcher.jar
 lib: D:\gradle-8.8\lib\caches\forge_gradle\minecraft_repo\versions\1.16.5\client-extra.jar
@@ -74,10 +74,10 @@ lib: D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.8.0-beta
 lib: D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.jline\jline-reader\3.12.1\4382ab1382c7b6f379377ed5f665dc2f6e1218bc\jline-reader-3.12.1.jar
 lib: D:\gradle-8.8\lib\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar
 log: null
-input: D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\build\libs\wmlib-1.2.jar
-output: D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\build\reobfJar\output.jar
+input: D:\1.16.5mixin\wmlib\war-machine-lib\build\libs\wmlib-1.2.jar
+output: D:\1.16.5mixin\wmlib\war-machine-lib\build\reobfJar\output.jar
 threads: 4
-Names: D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\build\reobfJar\mappings.tsrg(reversed: false)
+Names: D:\1.16.5mixin\wmlib\war-machine-lib\build\reobfJar\mappings.tsrg(reversed: false)
 Fix Annotations: false
 Fix Records: false
 Fix Identifiers: false
@@ -85,12 +85,350 @@ Fix SourceFile: false
 Fix Line Numbers: false
 Strip codesigning signatures: false
 Adding Libraries to Inheritance
-Reading Input: D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\build\libs\wmlib-1.2.jar
+Reading Input: D:\1.16.5mixin\wmlib\war-machine-lib\build\libs\wmlib-1.2.jar
 Adding input to inheritance map
 Processing entries
+Conflicting propagated mapping for wmlib/common/item/ItemGun/inventoryTick(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/Entity;IZ)V from net/minecraft/item/Item/inventoryTick(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/Entity;IZ)V: inventoryTick -> func_77663_a
+Conflicting propagated mapping for wmlib/common/item/ItemGun/getUseDuration(Lnet/minecraft/item/ItemStack;)I from net/minecraft/item/Item/getUseDuration(Lnet/minecraft/item/ItemStack;)I: getUseDuration -> func_77626_a
+Conflicting propagated mapping for net/minecraft/world/World/lambda$fillReportDetails$6()Ljava/lang/String; from net/minecraft/client/world/ClientWorld/lambda$fillReportDetails$6()Ljava/lang/String;: lambda$fillReportDetails$6 -> func_228334_x_
+Conflicting propagated mapping for wmlib/common/item/ItemMouse/inventoryTick(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/Entity;IZ)V from net/minecraft/item/Item/inventoryTick(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/Entity;IZ)V: inventoryTick -> func_77663_a
+Conflicting propagated mapping for wmlib/common/item/ItemMouse/use(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResult; from net/minecraft/item/Item/use(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResult;: use -> func_77659_a
+Conflicting propagated mapping for wmlib/common/item/ItemMouse/useOn(Lnet/minecraft/item/ItemUseContext;)Lnet/minecraft/util/ActionResultType; from net/minecraft/item/Item/useOn(Lnet/minecraft/item/ItemUseContext;)Lnet/minecraft/util/ActionResultType;: useOn -> func_195939_a
+Conflicting propagated mapping for wmlib/common/item/ItemMouse/appendHoverText(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V from net/minecraft/item/Item/appendHoverText(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V: appendHoverText -> func_77624_a
+Conflicting propagated mapping for net/minecraftforge/client/gui/ForgeIngameGui/renderPortalOverlay(F)V from net/minecraft/client/gui/IngameGui/renderPortalOverlay(F)V: renderPortalOverlay -> func_194805_e
+Conflicting propagated mapping for net/minecraftforge/client/gui/ForgeIngameGui/renderJumpMeter(Lcom/mojang/blaze3d/matrix/MatrixStack;I)V from net/minecraft/client/gui/IngameGui/renderJumpMeter(Lcom/mojang/blaze3d/matrix/MatrixStack;I)V: renderJumpMeter -> func_238446_a_
+Conflicting propagated mapping for net/minecraftforge/client/gui/ForgeIngameGui/renderCrosshair(Lcom/mojang/blaze3d/matrix/MatrixStack;)V from net/minecraft/client/gui/IngameGui/renderCrosshair(Lcom/mojang/blaze3d/matrix/MatrixStack;)V: renderCrosshair -> func_238456_d_
+Conflicting propagated mapping for net/minecraftforge/client/gui/ForgeIngameGui/render(Lcom/mojang/blaze3d/matrix/MatrixStack;F)V from net/minecraft/client/gui/IngameGui/render(Lcom/mojang/blaze3d/matrix/MatrixStack;F)V: render -> func_238445_a_
+Conflicting propagated mapping for net/minecraftforge/client/gui/ForgeIngameGui/renderVignette(Lnet/minecraft/entity/Entity;)V from net/minecraft/client/gui/IngameGui/renderVignette(Lnet/minecraft/entity/Entity;)V: renderVignette -> func_212303_b
+Conflicting propagated mapping for net/minecraftforge/client/gui/ForgeIngameGui/renderEffects(Lcom/mojang/blaze3d/matrix/MatrixStack;)V from net/minecraft/client/gui/IngameGui/renderEffects(Lcom/mojang/blaze3d/matrix/MatrixStack;)V: renderEffects -> func_238444_a_
+Conflicting propagated mapping for net/minecraftforge/client/gui/ForgeIngameGui/renderHotbar(FLcom/mojang/blaze3d/matrix/MatrixStack;)V from net/minecraft/client/gui/IngameGui/renderHotbar(FLcom/mojang/blaze3d/matrix/MatrixStack;)V: renderHotbar -> func_238443_a_
+Conflicting propagated mapping for wmlib/common/living/EntityWMSeat/rideableUnderWater()Z from net/minecraft/entity/LivingEntity/rideableUnderWater()Z: rideableUnderWater -> func_205710_ba
+Conflicting propagated mapping for wmlib/common/living/EntityWMSeat/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V from net/minecraft/entity/MobEntity/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V: readAdditionalSaveData -> func_70037_a
+Conflicting propagated mapping for wmlib/common/living/EntityWMSeat/tick()V from net/minecraft/entity/MobEntity/tick()V: tick -> func_70071_h_
+Conflicting propagated mapping for wmlib/common/living/EntityWMSeat/registerGoals()V from net/minecraft/entity/MobEntity/registerGoals()V: registerGoals -> func_184651_r
+Conflicting propagated mapping for wmlib/common/living/EntityWMSeat/checkDespawn()V from net/minecraft/entity/MobEntity/checkDespawn()V: checkDespawn -> func_70623_bb
+Conflicting propagated mapping for wmlib/common/living/EntityWMSeat/getTeam()Lnet/minecraft/scoreboard/Team; from net/minecraft/entity/Entity/getTeam()Lnet/minecraft/scoreboard/Team;: getTeam -> func_96124_cp
+Conflicting propagated mapping for wmlib/common/living/EntityWMSeat/getControllingPassenger()Lnet/minecraft/entity/Entity; from net/minecraft/entity/Entity/getControllingPassenger()Lnet/minecraft/entity/Entity;: getControllingPassenger -> func_184179_bs
+Conflicting propagated mapping for wmlib/common/living/EntityWMSeat/defineSynchedData()V from net/minecraft/entity/MobEntity/defineSynchedData()V: defineSynchedData -> func_70088_a
+Conflicting propagated mapping for wmlib/common/living/EntityWMSeat/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V from net/minecraft/entity/MobEntity/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V: addAdditionalSaveData -> func_213281_b
+Conflicting propagated mapping for wmlib/common/living/EntityWMSeat/hurt(Lnet/minecraft/util/DamageSource;F)Z from net/minecraft/entity/LivingEntity/hurt(Lnet/minecraft/util/DamageSource;F)Z: hurt -> func_70097_a
+Conflicting propagated mapping for wmlib/common/living/EntityWMVehicleBase/getBreedOffspring(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/entity/AgeableEntity;)Lnet/minecraft/entity/AgeableEntity; from net/minecraft/entity/AgeableEntity/getBreedOffspring(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/entity/AgeableEntity;)Lnet/minecraft/entity/AgeableEntity;: getBreedOffspring -> func_241840_a
+Conflicting propagated mapping for wmlib/common/living/EntityWMVehicleBase/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V from net/minecraft/entity/passive/TameableEntity/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V: readAdditionalSaveData -> func_70037_a
+Conflicting propagated mapping for wmlib/common/living/EntityWMVehicleBase/tick()V from net/minecraft/entity/MobEntity/tick()V: tick -> func_70071_h_
+Conflicting propagated mapping for wmlib/common/living/EntityWMVehicleBase/registerGoals()V from net/minecraft/entity/MobEntity/registerGoals()V: registerGoals -> func_184651_r
+Conflicting propagated mapping for wmlib/common/living/EntityWMVehicleBase/checkDespawn()V from net/minecraft/entity/MobEntity/checkDespawn()V: checkDespawn -> func_70623_bb
+Conflicting propagated mapping for wmlib/common/living/EntityWMVehicleBase/getTeam()Lnet/minecraft/scoreboard/Team; from net/minecraft/entity/passive/TameableEntity/getTeam()Lnet/minecraft/scoreboard/Team;: getTeam -> func_96124_cp
+Conflicting propagated mapping for wmlib/common/living/EntityWMVehicleBase/getControllingPassenger()Lnet/minecraft/entity/Entity; from net/minecraft/entity/Entity/getControllingPassenger()Lnet/minecraft/entity/Entity;: getControllingPassenger -> func_184179_bs
+Conflicting propagated mapping for wmlib/common/living/EntityWMVehicleBase/defineSynchedData()V from net/minecraft/entity/passive/TameableEntity/defineSynchedData()V: defineSynchedData -> func_70088_a
+Conflicting propagated mapping for wmlib/common/living/EntityWMVehicleBase/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V from net/minecraft/entity/passive/TameableEntity/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V: addAdditionalSaveData -> func_213281_b
+Conflicting propagated mapping for wmlib/common/living/EntityWMVehicleBase/hurt(Lnet/minecraft/util/DamageSource;F)Z from net/minecraft/entity/passive/AnimalEntity/hurt(Lnet/minecraft/util/DamageSource;F)Z: hurt -> func_70097_a
+Conflicting propagated mapping for wmlib/client/render/LayerItemGun/render(Lcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;ILnet/minecraft/entity/LivingEntity;FFFFFF)V from net/minecraft/client/renderer/entity/layers/HeldItemLayer/render(Lcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;ILnet/minecraft/entity/LivingEntity;FFFFFF)V: render -> func_225628_a_
+Conflicting propagated mapping for wmlib/client/render/LayerItemGun/render(Lcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;ILnet/minecraft/entity/Entity;FFFFFF)V from net/minecraft/client/renderer/entity/layers/HeldItemLayer/render(Lcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;ILnet/minecraft/entity/Entity;FFFFFF)V: render -> func_225628_a_
+Conflicting propagated mapping for wmlib/client/render/ModelNone/setupAnim(Lnet/minecraft/entity/Entity;FFFFF)V from net/minecraft/client/renderer/entity/model/EntityModel/setupAnim(Lnet/minecraft/entity/Entity;FFFFF)V: setupAnim -> func_225597_a_
+Conflicting propagated mapping for wmlib/client/render/ModelNone/headParts()Ljava/lang/Iterable; from net/minecraft/client/renderer/entity/model/AgeableModel/headParts()Ljava/lang/Iterable;: headParts -> func_225602_a_
+Conflicting propagated mapping for wmlib/client/render/ModelNone/bodyParts()Ljava/lang/Iterable; from net/minecraft/client/renderer/entity/model/AgeableModel/bodyParts()Ljava/lang/Iterable;: bodyParts -> func_225600_b_
+Conflicting propagated mapping for wmlib/client/render/ModelNone/prepareMobModel(Lnet/minecraft/entity/Entity;FFF)V from net/minecraft/client/renderer/entity/model/EntityModel/prepareMobModel(Lnet/minecraft/entity/Entity;FFF)V: prepareMobModel -> func_212843_a_
+Conflicting propagated mapping for wmlib/client/render/RenderBulletBase/getTextureLocation(Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;: getTextureLocation -> func_110775_a
+Conflicting propagated mapping for wmlib/client/render/RenderBulletBase/render(Lnet/minecraft/entity/Entity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V from net/minecraft/client/renderer/entity/EntityRenderer/render(Lnet/minecraft/entity/Entity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V: render -> func_225623_a_
+Conflicting propagated mapping for wmlib/common/bullet/ProjectileBase/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V from net/minecraft/entity/Entity/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V: readAdditionalSaveData -> func_70037_a
+Conflicting propagated mapping for wmlib/common/bullet/ProjectileBase/tick()V from net/minecraft/entity/Entity/tick()V: tick -> func_70071_h_
+Conflicting propagated mapping for wmlib/common/bullet/ProjectileBase/lerpMotion(DDD)V from net/minecraft/entity/Entity/lerpMotion(DDD)V: lerpMotion -> func_70016_h
+Conflicting propagated mapping for wmlib/common/bullet/ProjectileBase/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V from net/minecraft/entity/Entity/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V: addAdditionalSaveData -> func_213281_b
+Conflicting propagated mapping for wmlib/common/bullet/EntityBulletBase/handleEntityEvent(B)V from net/minecraft/entity/Entity/handleEntityEvent(B)V: handleEntityEvent -> func_70103_a
+Conflicting propagated mapping for wmlib/common/bullet/EntityBulletBase/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V from wmlib/common/bullet/ProjectileBase/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V: readAdditionalSaveData -> func_70037_a
+Conflicting propagated mapping for wmlib/common/bullet/EntityBulletBase/tick()V from wmlib/common/bullet/ProjectileBase/tick()V: tick -> func_70071_h_
+Conflicting propagated mapping for wmlib/common/bullet/EntityBulletBase/shouldRenderAtSqrDistance(D)Z from net/minecraft/entity/Entity/shouldRenderAtSqrDistance(D)Z: shouldRenderAtSqrDistance -> func_70112_a
+Conflicting propagated mapping for wmlib/common/bullet/EntityBulletBase/defineSynchedData()V from net/minecraft/entity/Entity/defineSynchedData()V: defineSynchedData -> func_70088_a
+Conflicting propagated mapping for wmlib/common/bullet/EntityBulletBase/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V from wmlib/common/bullet/ProjectileBase/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V: addAdditionalSaveData -> func_213281_b
+Conflicting propagated mapping for wmlib/common/bullet/EntityBulletBase/getAddEntityPacket()Lnet/minecraft/network/IPacket; from net/minecraft/entity/Entity/getAddEntityPacket()Lnet/minecraft/network/IPacket;: getAddEntityPacket -> func_213297_N
+Conflicting propagated mapping for wmlib/client/render/RenderFlare/render(Lnet/minecraft/entity/MobEntity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V from net/minecraft/client/renderer/entity/MobRenderer/render(Lnet/minecraft/entity/MobEntity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V: render -> func_225623_a_
+Conflicting propagated mapping for wmlib/client/render/RenderFlare/render(Lnet/minecraft/entity/Entity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V from net/minecraft/client/renderer/entity/MobRenderer/render(Lnet/minecraft/entity/Entity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V: render -> func_225623_a_
+Conflicting propagated mapping for wmlib/client/render/RenderFlare/getTextureLocation(Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;: getTextureLocation -> func_110775_a
+Conflicting propagated mapping for wmlib/client/render/RenderFlare/render(Lnet/minecraft/entity/LivingEntity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V from net/minecraft/client/renderer/entity/MobRenderer/render(Lnet/minecraft/entity/LivingEntity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V: render -> func_225623_a_
+Conflicting propagated mapping for wmlib/common/bullet/EntityFlare/tick()V from net/minecraft/entity/MobEntity/tick()V: tick -> func_70071_h_
+Conflicting propagated mapping for wmlib/common/bullet/EntityFlare/getAddEntityPacket()Lnet/minecraft/network/IPacket; from net/minecraft/entity/LivingEntity/getAddEntityPacket()Lnet/minecraft/network/IPacket;: getAddEntityPacket -> func_213297_N
+Conflicting propagated mapping for wmlib/common/bullet/EntityMissile/handleEntityEvent(B)V from wmlib/common/bullet/EntityBulletBase/handleEntityEvent(B)V: handleEntityEvent -> func_70103_a
+Conflicting propagated mapping for wmlib/common/bullet/EntityMissile/tick()V from wmlib/common/bullet/EntityBulletBase/tick()V: tick -> func_70071_h_
+Conflicting propagated mapping for wmlib/common/bullet/EntityMissile/getAddEntityPacket()Lnet/minecraft/network/IPacket; from wmlib/common/bullet/EntityBulletBase/getAddEntityPacket()Lnet/minecraft/network/IPacket;: getAddEntityPacket -> func_213297_N
+Conflicting propagated mapping for wmlib/client/render/RenderMine/render(Lnet/minecraft/entity/MobEntity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V from net/minecraft/client/renderer/entity/MobRenderer/render(Lnet/minecraft/entity/MobEntity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V: render -> func_225623_a_
+Conflicting propagated mapping for wmlib/client/render/RenderMine/render(Lnet/minecraft/entity/Entity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V from net/minecraft/client/renderer/entity/MobRenderer/render(Lnet/minecraft/entity/Entity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V: render -> func_225623_a_
+Conflicting propagated mapping for wmlib/client/render/RenderMine/getTextureLocation(Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;: getTextureLocation -> func_110775_a
+Conflicting propagated mapping for wmlib/client/render/RenderMine/render(Lnet/minecraft/entity/LivingEntity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V from net/minecraft/client/renderer/entity/MobRenderer/render(Lnet/minecraft/entity/LivingEntity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V: render -> func_225623_a_
+Conflicting propagated mapping for wmlib/client/render/RenderMelonBlock/render(Lnet/minecraft/tileentity/TileEntity;FLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;II)V from net/minecraft/client/renderer/tileentity/TileEntityRenderer/render(Lnet/minecraft/tileentity/TileEntity;FLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;II)V: render -> func_225616_a_
+Conflicting propagated mapping for wmlib/common/bullet/EntityMine/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V from net/minecraft/entity/MobEntity/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V: readAdditionalSaveData -> func_70037_a
+Conflicting propagated mapping for wmlib/common/bullet/EntityMine/tick()V from net/minecraft/entity/MobEntity/tick()V: tick -> func_70071_h_
+Conflicting propagated mapping for wmlib/common/bullet/EntityMine/getTeam()Lnet/minecraft/scoreboard/Team; from net/minecraft/entity/Entity/getTeam()Lnet/minecraft/scoreboard/Team;: getTeam -> func_96124_cp
+Conflicting propagated mapping for wmlib/common/bullet/EntityMine/defineSynchedData()V from net/minecraft/entity/MobEntity/defineSynchedData()V: defineSynchedData -> func_70088_a
+Conflicting propagated mapping for wmlib/common/bullet/EntityMine/tickDeath()V from net/minecraft/entity/LivingEntity/tickDeath()V: tickDeath -> func_70609_aI
+Conflicting propagated mapping for wmlib/common/bullet/EntityMine/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V from net/minecraft/entity/MobEntity/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V: addAdditionalSaveData -> func_213281_b
+Conflicting propagated mapping for wmlib/common/bullet/EntityMine/getAddEntityPacket()Lnet/minecraft/network/IPacket; from net/minecraft/entity/LivingEntity/getAddEntityPacket()Lnet/minecraft/network/IPacket;: getAddEntityPacket -> func_213297_N
+Conflicting propagated mapping for wmlib/common/block/AbstractFacingBlock/getStateForPlacement(Lnet/minecraft/item/BlockItemUseContext;)Lnet/minecraft/block/BlockState; from net/minecraft/block/Block/getStateForPlacement(Lnet/minecraft/item/BlockItemUseContext;)Lnet/minecraft/block/BlockState;: getStateForPlacement -> func_196258_a
+Conflicting propagated mapping for wmlib/common/block/AbstractFacingBlock/rotate(Lnet/minecraft/block/BlockState;Lnet/minecraft/util/Rotation;)Lnet/minecraft/block/BlockState; from net/minecraft/block/AbstractBlock/rotate(Lnet/minecraft/block/BlockState;Lnet/minecraft/util/Rotation;)Lnet/minecraft/block/BlockState;: rotate -> func_185499_a
+Conflicting propagated mapping for wmlib/common/block/AbstractFacingBlock/mirror(Lnet/minecraft/block/BlockState;Lnet/minecraft/util/Mirror;)Lnet/minecraft/block/BlockState; from net/minecraft/block/AbstractBlock/mirror(Lnet/minecraft/block/BlockState;Lnet/minecraft/util/Mirror;)Lnet/minecraft/block/BlockState;: mirror -> func_185471_a
+Conflicting propagated mapping for wmlib/common/block/AbstractFacingBlock/createBlockStateDefinition(Lnet/minecraft/state/StateContainer$Builder;)V from net/minecraft/block/Block/createBlockStateDefinition(Lnet/minecraft/state/StateContainer$Builder;)V: createBlockStateDefinition -> func_206840_a
+Conflicting propagated mapping for wmlib/client/render/RenderRad/render(Lnet/minecraft/entity/MobEntity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V from net/minecraft/client/renderer/entity/MobRenderer/render(Lnet/minecraft/entity/MobEntity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V: render -> func_225623_a_
+Conflicting propagated mapping for wmlib/client/render/RenderRad/shouldRender(Lnet/minecraft/entity/MobEntity;Lnet/minecraft/client/renderer/culling/ClippingHelper;DDD)Z from net/minecraft/client/renderer/entity/MobRenderer/shouldRender(Lnet/minecraft/entity/MobEntity;Lnet/minecraft/client/renderer/culling/ClippingHelper;DDD)Z: shouldRender -> func_225626_a_
+Conflicting propagated mapping for wmlib/client/render/RenderRad/render(Lnet/minecraft/entity/Entity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V from net/minecraft/client/renderer/entity/MobRenderer/render(Lnet/minecraft/entity/Entity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V: render -> func_225623_a_
+Conflicting propagated mapping for wmlib/client/render/RenderRad/shouldRender(Lnet/minecraft/entity/Entity;Lnet/minecraft/client/renderer/culling/ClippingHelper;DDD)Z from net/minecraft/client/renderer/entity/MobRenderer/shouldRender(Lnet/minecraft/entity/Entity;Lnet/minecraft/client/renderer/culling/ClippingHelper;DDD)Z: shouldRender -> func_225626_a_
+Conflicting propagated mapping for wmlib/client/render/RenderRad/getTextureLocation(Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;: getTextureLocation -> func_110775_a
+Conflicting propagated mapping for wmlib/client/render/RenderRad/render(Lnet/minecraft/entity/LivingEntity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V from net/minecraft/client/renderer/entity/MobRenderer/render(Lnet/minecraft/entity/LivingEntity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V: render -> func_225623_a_
+Conflicting propagated mapping for wmlib/common/bullet/EntityRad/canBeCollidedWith()Z from net/minecraft/entity/Entity/canBeCollidedWith()Z: canBeCollidedWith -> func_241845_aY
+Conflicting propagated mapping for wmlib/common/bullet/EntityRad/aiStep()V from net/minecraft/entity/MobEntity/aiStep()V: aiStep -> func_70636_d
+Conflicting propagated mapping for wmlib/common/bullet/EntityRad/hurt(Lnet/minecraft/util/DamageSource;F)Z from net/minecraft/entity/LivingEntity/hurt(Lnet/minecraft/util/DamageSource;F)Z: hurt -> func_70097_a
+Conflicting propagated mapping for wmlib/client/render/SARenderState/lambda$static$1()V from net/minecraft/client/renderer/RenderState/lambda$static$1()V: lambda$static$1 -> func_228545_K_
+Conflicting propagated mapping for wmlib/client/render/SARenderState/lambda$static$0()V from net/minecraft/client/renderer/RenderState/lambda$static$0()V: lambda$static$0 -> func_228546_L_
+Conflicting propagated mapping for wmlib/common/bullet/EntityBlock/tick()V from wmlib/common/bullet/EntityBulletBase/tick()V: tick -> func_70071_h_
+Conflicting propagated mapping for wmlib/common/bullet/EntityBlock/getAddEntityPacket()Lnet/minecraft/network/IPacket; from wmlib/common/bullet/EntityBulletBase/getAddEntityPacket()Lnet/minecraft/network/IPacket;: getAddEntityPacket -> func_213297_N
+Conflicting propagated mapping for wmlib/common/bullet/EntityBullet/handleEntityEvent(B)V from wmlib/common/bullet/EntityBulletBase/handleEntityEvent(B)V: handleEntityEvent -> func_70103_a
+Conflicting propagated mapping for wmlib/common/bullet/EntityBullet/tick()V from wmlib/common/bullet/EntityBulletBase/tick()V: tick -> func_70071_h_
+Conflicting propagated mapping for wmlib/common/bullet/EntityBullet/getAddEntityPacket()Lnet/minecraft/network/IPacket; from wmlib/common/bullet/EntityBulletBase/getAddEntityPacket()Lnet/minecraft/network/IPacket;: getAddEntityPacket -> func_213297_N
+Conflicting propagated mapping for wmlib/common/item/ItemGlint/isFoil(Lnet/minecraft/item/ItemStack;)Z from net/minecraft/item/Item/isFoil(Lnet/minecraft/item/ItemStack;)Z: isFoil -> func_77636_d
+Conflicting propagated mapping for wmlib/common/bullet/EntityGrenade/handleEntityEvent(B)V from wmlib/common/bullet/EntityBulletBase/handleEntityEvent(B)V: handleEntityEvent -> func_70103_a
+Conflicting propagated mapping for wmlib/common/bullet/EntityGrenade/tick()V from wmlib/common/bullet/EntityBulletBase/tick()V: tick -> func_70071_h_
+Conflicting propagated mapping for wmlib/common/bullet/EntityGrenade/getAddEntityPacket()Lnet/minecraft/network/IPacket; from wmlib/common/bullet/EntityBulletBase/getAddEntityPacket()Lnet/minecraft/network/IPacket;: getAddEntityPacket -> func_213297_N
+Conflicting propagated mapping for wmlib/common/bullet/EntityShell/handleEntityEvent(B)V from wmlib/common/bullet/EntityBulletBase/handleEntityEvent(B)V: handleEntityEvent -> func_70103_a
+Conflicting propagated mapping for wmlib/common/bullet/EntityShell/tick()V from wmlib/common/bullet/EntityBulletBase/tick()V: tick -> func_70071_h_
+Conflicting propagated mapping for wmlib/common/bullet/EntityShell/getAddEntityPacket()Lnet/minecraft/network/IPacket; from wmlib/common/bullet/EntityBulletBase/getAddEntityPacket()Lnet/minecraft/network/IPacket;: getAddEntityPacket -> func_213297_N
+Conflicting propagated mapping for wmlib/common/enchantment/ArmorEnchantment/getMinCost(I)I from net/minecraft/enchantment/Enchantment/getMinCost(I)I: getMinCost -> func_77321_a
+Conflicting propagated mapping for wmlib/common/enchantment/ArmorEnchantment/getMaxCost(I)I from net/minecraft/enchantment/Enchantment/getMaxCost(I)I: getMaxCost -> func_223551_b
+Conflicting propagated mapping for wmlib/common/enchantment/ArmorEnchantment/getMaxLevel()I from net/minecraft/enchantment/Enchantment/getMaxLevel()I: getMaxLevel -> func_77325_b
+Conflicting propagated mapping for wmlib/common/enchantment/ControlEnchantment/getMinCost(I)I from net/minecraft/enchantment/Enchantment/getMinCost(I)I: getMinCost -> func_77321_a
+Conflicting propagated mapping for wmlib/common/enchantment/ControlEnchantment/getMaxCost(I)I from net/minecraft/enchantment/Enchantment/getMaxCost(I)I: getMaxCost -> func_223551_b
+Conflicting propagated mapping for wmlib/common/item/ItemBless/use(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResult; from net/minecraft/item/Item/use(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResult;: use -> func_77659_a
+Conflicting propagated mapping for wmlib/common/item/ItemBless/useOn(Lnet/minecraft/item/ItemUseContext;)Lnet/minecraft/util/ActionResultType; from net/minecraft/item/Item/useOn(Lnet/minecraft/item/ItemUseContext;)Lnet/minecraft/util/ActionResultType;: useOn -> func_195939_a
+Conflicting propagated mapping for wmlib/common/item/ItemBless/getEnchantmentValue()I from net/minecraft/item/Item/getEnchantmentValue()I: getEnchantmentValue -> func_77619_b
+Conflicting propagated mapping for wmlib/common/item/ItemBless/isEnchantable(Lnet/minecraft/item/ItemStack;)Z from net/minecraft/item/Item/isEnchantable(Lnet/minecraft/item/ItemStack;)Z: isEnchantable -> func_77616_k
+Conflicting propagated mapping for wmlib/common/item/ItemBless/appendHoverText(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V from net/minecraft/item/Item/appendHoverText(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V: appendHoverText -> func_77624_a
+Conflicting propagated mapping for wmlib/common/item/ItemBless/hurtEnemy(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/entity/LivingEntity;)Z from net/minecraft/item/Item/hurtEnemy(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/entity/LivingEntity;)Z: hurtEnemy -> func_77644_a
+Conflicting propagated mapping for wmlib/common/enchantment/HealEnchantment/getMinCost(I)I from net/minecraft/enchantment/Enchantment/getMinCost(I)I: getMinCost -> func_77321_a
+Conflicting propagated mapping for wmlib/common/enchantment/HealEnchantment/getMaxCost(I)I from net/minecraft/enchantment/Enchantment/getMaxCost(I)I: getMaxCost -> func_223551_b
+Conflicting propagated mapping for wmlib/common/enchantment/HealEnchantment/getMaxLevel()I from net/minecraft/enchantment/Enchantment/getMaxLevel()I: getMaxLevel -> func_77325_b
+Conflicting propagated mapping for wmlib/common/enchantment/SoulEnchantment/getMinCost(I)I from net/minecraft/enchantment/Enchantment/getMinCost(I)I: getMinCost -> func_77321_a
+Conflicting propagated mapping for wmlib/common/enchantment/SoulEnchantment/getMaxCost(I)I from net/minecraft/enchantment/Enchantment/getMaxCost(I)I: getMaxCost -> func_223551_b
+Conflicting propagated mapping for wmlib/common/enchantment/ReloadEnchantment/getMinCost(I)I from net/minecraft/enchantment/Enchantment/getMinCost(I)I: getMinCost -> func_77321_a
+Conflicting propagated mapping for wmlib/common/enchantment/ReloadEnchantment/getMaxCost(I)I from net/minecraft/enchantment/Enchantment/getMaxCost(I)I: getMaxCost -> func_223551_b
+Conflicting propagated mapping for wmlib/common/enchantment/ReloadEnchantment/getMaxLevel()I from net/minecraft/enchantment/Enchantment/getMaxLevel()I: getMaxLevel -> func_77325_b
+Conflicting propagated mapping for wmlib/common/enchantment/PowerEnchantment/getMinCost(I)I from net/minecraft/enchantment/Enchantment/getMinCost(I)I: getMinCost -> func_77321_a
+Conflicting propagated mapping for wmlib/common/enchantment/PowerEnchantment/getMaxCost(I)I from net/minecraft/enchantment/Enchantment/getMaxCost(I)I: getMaxCost -> func_223551_b
+Conflicting propagated mapping for wmlib/common/enchantment/PowerEnchantment/getMaxLevel()I from net/minecraft/enchantment/Enchantment/getMaxLevel()I: getMaxLevel -> func_77325_b
+Conflicting propagated mapping for wmlib/common/enchantment/ProtectEnchantment/getMinCost(I)I from net/minecraft/enchantment/Enchantment/getMinCost(I)I: getMinCost -> func_77321_a
+Conflicting propagated mapping for wmlib/common/enchantment/ProtectEnchantment/getMaxCost(I)I from net/minecraft/enchantment/Enchantment/getMaxCost(I)I: getMaxCost -> func_223551_b
+Conflicting propagated mapping for wmlib/common/enchantment/ProtectEnchantment/getMaxLevel()I from net/minecraft/enchantment/Enchantment/getMaxLevel()I: getMaxLevel -> func_77325_b
+Conflicting propagated mapping for wmlib/common/item/ItemGun_Custom/releaseUsing(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;I)V from net/minecraft/item/Item/releaseUsing(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;I)V: releaseUsing -> func_77615_a
+Conflicting propagated mapping for wmlib/common/item/ItemGun_Custom/inventoryTick(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/Entity;IZ)V from wmlib/common/item/ItemGun/inventoryTick(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/Entity;IZ)V: inventoryTick -> func_77663_a
+Conflicting propagated mapping for wmlib/common/item/ItemGun_Custom/use(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResult; from net/minecraft/item/Item/use(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResult;: use -> func_77659_a
+Conflicting propagated mapping for wmlib/common/item/ItemGun_Custom/appendHoverText(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V from net/minecraft/item/Item/appendHoverText(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V: appendHoverText -> func_77624_a
+Conflicting propagated mapping for wmlib/common/item/ItemSummon/use(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResult; from net/minecraft/item/Item/use(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResult;: use -> func_77659_a
+Conflicting propagated mapping for wmlib/common/item/ItemSummon/useOn(Lnet/minecraft/item/ItemUseContext;)Lnet/minecraft/util/ActionResultType; from net/minecraft/item/Item/useOn(Lnet/minecraft/item/ItemUseContext;)Lnet/minecraft/util/ActionResultType;: useOn -> func_195939_a
+Conflicting propagated mapping for wmlib/common/item/ItemSummon/getEnchantmentValue()I from net/minecraft/item/Item/getEnchantmentValue()I: getEnchantmentValue -> func_77619_b
+Conflicting propagated mapping for wmlib/common/item/ItemSummon/isEnchantable(Lnet/minecraft/item/ItemStack;)Z from net/minecraft/item/Item/isEnchantable(Lnet/minecraft/item/ItemStack;)Z: isEnchantable -> func_77616_k
+Conflicting propagated mapping for wmlib/common/item/ItemSummon/hurtEnemy(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/entity/LivingEntity;)Z from net/minecraft/item/Item/hurtEnemy(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/entity/LivingEntity;)Z: hurtEnemy -> func_77644_a
+Conflicting propagated mapping for wmlib/common/living/ai/LivingLockGoal/canUse()Z from net/minecraft/entity/ai/goal/Goal/canUse()Z: canUse -> func_75250_a
+Conflicting propagated mapping for wmlib/common/living/ai/LivingLockGoal/start()V from net/minecraft/entity/ai/goal/Goal/start()V: start -> func_75249_e
+Conflicting propagated mapping for wmlib/common/living/ai/LivingLockGoal/tick()V from net/minecraft/entity/ai/goal/Goal/tick()V: tick -> func_75246_d
+Conflicting propagated mapping for wmlib/common/living/ai/LivingLockGoal/stop()V from net/minecraft/entity/ai/goal/Goal/stop()V: stop -> func_75251_c
+Conflicting propagated mapping for wmlib/common/living/ai/LivingLockGoal/canContinueToUse()Z from net/minecraft/entity/ai/goal/Goal/canContinueToUse()Z: canContinueToUse -> func_75253_b
+Conflicting propagated mapping for wmlib/common/living/ai/LivingTargetGoalSA/start()V from net/minecraft/entity/ai/goal/Goal/start()V: start -> func_75249_e
+Conflicting propagated mapping for wmlib/common/living/ai/LivingTargetGoalSA/stop()V from net/minecraft/entity/ai/goal/Goal/stop()V: stop -> func_75251_c
+Conflicting propagated mapping for wmlib/common/living/ai/LivingTargetGoalSA/canContinueToUse()Z from net/minecraft/entity/ai/goal/Goal/canContinueToUse()Z: canContinueToUse -> func_75253_b
+Conflicting propagated mapping for wmlib/common/living/ai/LivingSearchTargetGoalSA/canUse()Z from net/minecraft/entity/ai/goal/Goal/canUse()Z: canUse -> func_75250_a
+Conflicting propagated mapping for wmlib/common/living/ai/LivingSearchTargetGoalSA/start()V from wmlib/common/living/ai/LivingTargetGoalSA/start()V: start -> func_75249_e
+Conflicting propagated mapping for wmlib/common/living/ai/VehicleLockGoal/canUse()Z from net/minecraft/entity/ai/goal/Goal/canUse()Z: canUse -> func_75250_a
+Conflicting propagated mapping for wmlib/common/living/ai/VehicleLockGoal/start()V from net/minecraft/entity/ai/goal/Goal/start()V: start -> func_75249_e
+Conflicting propagated mapping for wmlib/common/living/ai/VehicleLockGoal/tick()V from net/minecraft/entity/ai/goal/Goal/tick()V: tick -> func_75246_d
+Conflicting propagated mapping for wmlib/common/living/ai/VehicleLockGoal/stop()V from net/minecraft/entity/ai/goal/Goal/stop()V: stop -> func_75251_c
+Conflicting propagated mapping for wmlib/common/living/ai/VehicleLockGoal/canContinueToUse()Z from net/minecraft/entity/ai/goal/Goal/canContinueToUse()Z: canContinueToUse -> func_75253_b
+Conflicting propagated mapping for wmlib/common/living/ai/VehicleTargetGoalSA/start()V from net/minecraft/entity/ai/goal/Goal/start()V: start -> func_75249_e
+Conflicting propagated mapping for wmlib/common/living/ai/VehicleTargetGoalSA/stop()V from net/minecraft/entity/ai/goal/Goal/stop()V: stop -> func_75251_c
+Conflicting propagated mapping for wmlib/common/living/ai/VehicleTargetGoalSA/canContinueToUse()Z from net/minecraft/entity/ai/goal/Goal/canContinueToUse()Z: canContinueToUse -> func_75253_b
+Conflicting propagated mapping for wmlib/common/living/ai/VehicleSearchTargetGoalSA/canUse()Z from net/minecraft/entity/ai/goal/Goal/canUse()Z: canUse -> func_75250_a
+Conflicting propagated mapping for wmlib/common/living/ai/VehicleSearchTargetGoalSA/start()V from wmlib/common/living/ai/VehicleTargetGoalSA/start()V: start -> func_75249_e
+Conflicting propagated mapping for wmlib/common/living/WeaponVehicleBase/rideableUnderWater()Z from net/minecraft/entity/LivingEntity/rideableUnderWater()Z: rideableUnderWater -> func_205710_ba
+Conflicting propagated mapping for wmlib/common/living/WeaponVehicleBase/tick()V from wmlib/common/living/EntityWMVehicleBase/tick()V: tick -> func_70071_h_
+Conflicting propagated mapping for wmlib/common/living/WeaponVehicleBase/positionRider(Lnet/minecraft/entity/Entity;)V from net/minecraft/entity/Entity/positionRider(Lnet/minecraft/entity/Entity;)V: positionRider -> func_184232_k
+Conflicting propagated mapping for wmlib/common/living/WeaponVehicleBase/defineSynchedData()V from wmlib/common/living/EntityWMVehicleBase/defineSynchedData()V: defineSynchedData -> func_70088_a
+Conflicting propagated mapping for wmlib/common/living/WeaponVehicleBase/hurt(Lnet/minecraft/util/DamageSource;F)Z from wmlib/common/living/EntityWMVehicleBase/hurt(Lnet/minecraft/util/DamageSource;F)Z: hurt -> func_70097_a
+Conflicting propagated mapping for wmlib/common/living/WeaponVehicleBase/canBeCollidedWith()Z from net/minecraft/entity/Entity/canBeCollidedWith()Z: canBeCollidedWith -> func_241845_aY
+Conflicting propagated mapping for wmlib/common/living/WeaponVehicleBase/mobInteract(Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResultType; from net/minecraft/entity/passive/AnimalEntity/mobInteract(Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResultType;: mobInteract -> func_230254_b_
+Conflicting propagated mapping for wmlib/common/living/WeaponVehicleBase/canAddPassenger(Lnet/minecraft/entity/Entity;)Z from net/minecraft/entity/Entity/canAddPassenger(Lnet/minecraft/entity/Entity;)Z: canAddPassenger -> func_184219_q
+Conflicting propagated mapping for wmlib/common/living/WeaponVehicleBase/getNavigation()Lnet/minecraft/pathfinding/PathNavigator; from net/minecraft/entity/MobEntity/getNavigation()Lnet/minecraft/pathfinding/PathNavigator;: getNavigation -> func_70661_as
+Conflicting propagated mapping for wmlib/common/living/WeaponVehicleBase/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V from wmlib/common/living/EntityWMVehicleBase/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V: readAdditionalSaveData -> func_70037_a
+Conflicting propagated mapping for wmlib/common/living/WeaponVehicleBase/tickDeath()V from net/minecraft/entity/LivingEntity/tickDeath()V: tickDeath -> func_70609_aI
+Conflicting propagated mapping for wmlib/common/living/WeaponVehicleBase/fireImmune()Z from net/minecraft/entity/Entity/fireImmune()Z: fireImmune -> func_230279_az_
+Conflicting propagated mapping for wmlib/common/living/WeaponVehicleBase/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V from wmlib/common/living/EntityWMVehicleBase/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundNBT;)V: addAdditionalSaveData -> func_213281_b
+Conflicting propagated mapping for wmlib/WarMachineLib$1/makeIcon()Lnet/minecraft/item/ItemStack; from net/minecraft/item/ItemGroup/makeIcon()Lnet/minecraft/item/ItemStack;: makeIcon -> func_78016_d
+Conflicting propagated mapping for wmlib/WarMachineLib$1/fillItemList(Lnet/minecraft/util/NonNullList;)V from net/minecraft/item/ItemGroup/fillItemList(Lnet/minecraft/util/NonNullList;)V: fillItemList -> func_78018_a
 Adding extras
 Sorting
-Writing Output: D:\1.16.5mixin\wmlib\forge-1.16.5-36.2.39-mdk\build\reobfJar\output.jar
+Writing Output: D:\1.16.5mixin\wmlib\war-machine-lib\build\reobfJar\output.jar
   META-INF/
   META-INF/MANIFEST.MF
   mixins.wmlib.json
+  mixins.wmlib.refmap.json
+  wmlib/
+  wmlib/WMConfig$Client.class
+  wmlib/WMConfig$Common.class
+  wmlib/WMConfig$Display.class
+  wmlib/WMConfig$Hit.class
+  wmlib/WMConfig.class
+  wmlib/WarMachineLib$1.class
+  wmlib/WarMachineLib$RegistryEvents.class
+  wmlib/WarMachineLib.class
+  wmlib/api/
+  wmlib/api/IArmy.class
+  wmlib/api/IBuilding.class
+  wmlib/api/IDriver.class
+  wmlib/api/IEnemy.class
+  wmlib/api/IHealthBar.class
+  wmlib/api/IPara.class
+  wmlib/api/IRadSoldier.class
+  wmlib/api/IRaderItem.class
+  wmlib/api/ISoldier.class
+  wmlib/api/ITool.class
+  wmlib/client/
+  wmlib/client/ClientProxy.class
+  wmlib/client/ClientTickHandler$1.class
+  wmlib/client/ClientTickHandler.class
+  wmlib/client/OverlayHandler.class
+  wmlib/client/RenderParameters.class
+  wmlib/client/event/
+  wmlib/client/event/RenderEntityEvent.class
+  wmlib/client/event/RenderGunEvent.class
+  wmlib/client/event/RenderGunZoom.class
+  wmlib/client/obj/
+  wmlib/client/obj/SAObjModel.class
+  wmlib/client/render/
+  wmlib/client/render/InstantBulletRenderer$InstantShotTrail.class
+  wmlib/client/render/InstantBulletRenderer.class
+  wmlib/client/render/LayerItemGun.class
+  wmlib/client/render/ModelNone.class
+  wmlib/client/render/RenderBulletBase.class
+  wmlib/client/render/RenderFlare.class
+  wmlib/client/render/RenderMelonBlock.class
+  wmlib/client/render/RenderMine.class
+  wmlib/client/render/RenderRad.class
+  wmlib/client/render/SARenderHelper$RenderTypeSA.class
+  wmlib/client/render/SARenderHelper.class
+  wmlib/client/render/SARenderState.class
+  wmlib/common/
+  wmlib/common/CommonProxy.class
+  wmlib/common/WMSoundEvent.class
+  wmlib/common/block/
+  wmlib/common/block/AbstractFacingBlock.class
+  wmlib/common/block/BlockRegister.class
+  wmlib/common/block/MelonBlock.class
+  wmlib/common/bullet/
+  wmlib/common/bullet/EntityBlock.class
+  wmlib/common/bullet/EntityBullet.class
+  wmlib/common/bullet/EntityBulletBase.class
+  wmlib/common/bullet/EntityFlare.class
+  wmlib/common/bullet/EntityGrenade.class
+  wmlib/common/bullet/EntityMine.class
+  wmlib/common/bullet/EntityMissile.class
+  wmlib/common/bullet/EntityRad.class
+  wmlib/common/bullet/EntityShell.class
+  wmlib/common/bullet/ProjectileBase.class
+  wmlib/common/enchantment/
+  wmlib/common/enchantment/ArmorEnchantment.class
+  wmlib/common/enchantment/ControlEnchantment.class
+  wmlib/common/enchantment/EnchantmentTypes.class
+  wmlib/common/enchantment/HealEnchantment.class
+  wmlib/common/enchantment/ModEnchantments.class
+  wmlib/common/enchantment/PowerEnchantment.class
+  wmlib/common/enchantment/ProtectEnchantment.class
+  wmlib/common/enchantment/ReloadEnchantment.class
+  wmlib/common/enchantment/SoulEnchantment.class
+  wmlib/common/enchantment/VehicleEnchantment$Type.class
+  wmlib/common/enchantment/VehicleEnchantment.class
+  wmlib/common/event/
+  wmlib/common/event/TeamEntityEvent.class
+  wmlib/common/item/
+  wmlib/common/item/ItemBless.class
+  wmlib/common/item/ItemGlint.class
+  wmlib/common/item/ItemGun.class
+  wmlib/common/item/ItemGun_Custom.class
+  wmlib/common/item/ItemMouse.class
+  wmlib/common/item/ItemSummon.class
+  wmlib/common/living/
+  wmlib/common/living/AI_AirCraftSet.class
+  wmlib/common/living/AI_Damage.class
+  wmlib/common/living/AI_EntityWeapon_SA.class
+  wmlib/common/living/AI_MissileLock.class
+  wmlib/common/living/AI_TankSet.class
+  wmlib/common/living/EntityWMSeat.class
+  wmlib/common/living/EntityWMVehicleBase$1.class
+  wmlib/common/living/EntityWMVehicleBase.class
+  wmlib/common/living/PL_AirCraftMove.class
+  wmlib/common/living/PL_LandMove.class
+  wmlib/common/living/WeaponVehicleBase.class
+  wmlib/common/living/ai/
+  wmlib/common/living/ai/LivingLockGoal.class
+  wmlib/common/living/ai/LivingSearchTargetGoalSA.class
+  wmlib/common/living/ai/LivingTargetGoalSA.class
+  wmlib/common/living/ai/VehicleLockGoal.class
+  wmlib/common/living/ai/VehicleSearchTargetGoalSA.class
+  wmlib/common/living/ai/VehicleTargetGoalSA.class
+  wmlib/common/network/
+  wmlib/common/network/HandshakeHandler.class
+  wmlib/common/network/HandshakeMessages$C2SAcknowledge.class
+  wmlib/common/network/HandshakeMessages$LoginIndexedMessage.class
+  wmlib/common/network/HandshakeMessages$S2CVehicleProperties.class
+  wmlib/common/network/HandshakeMessages.class
+  wmlib/common/network/PacketHandler.class
+  wmlib/common/network/message/
+  wmlib/common/network/message/IMessage.class
+  wmlib/common/network/message/IMessage2.class
+  wmlib/common/network/message/MessageBulletMove.class
+  wmlib/common/network/message/MessageCame.class
+  wmlib/common/network/message/MessageChoose.class
+  wmlib/common/network/message/MessageCommander.class
+  wmlib/common/network/message/MessageFX.class
+  wmlib/common/network/message/MessageFire.class
+  wmlib/common/network/message/MessageHit.class
+  wmlib/common/network/message/MessageLock.class
+  wmlib/common/network/message/MessageRote.class
+  wmlib/common/network/message/MessageShoot.class
+  wmlib/common/network/message/MessageSoldierAnim.class
+  wmlib/common/network/message/MessageThrottle.class
+  wmlib/common/network/message/MessageTrail.class
+  wmlib/common/network/message/MessageVehicleAnim.class
+  wmlib/common/network/play/
+  wmlib/common/network/play/ClientPlayHandler.class
+  wmlib/common/network/play/ServerPlayHandler.class
+  wmlib/common/tileentity/
+  wmlib/common/tileentity/MelonBlockTileEntity.class
+  wmlib/common/tileentity/TileEntityRegister.class
+  wmlib/common/world/
+  wmlib/common/world/WMExplosion.class
+  wmlib/common/world/WMExplosionBase.class
+  wmlib/loader/
+  wmlib/loader/ModelFormatException.class
+  wmlib/loader/ObjModel.class
+  wmlib/loader/ObjModelBuilder.class
+  wmlib/loader/api/
+  wmlib/loader/api/ObjModelLoader.class
+  wmlib/loader/api/model/
+  wmlib/loader/api/model/AbstractObjModel.class
+  wmlib/loader/api/model/ObjModelRenderer.class
+  wmlib/loader/part/
+  wmlib/loader/part/Face.class
+  wmlib/loader/part/ModelObject.class
+  wmlib/loader/part/TextureCoordinate.class
+  wmlib/loader/part/Vertex.class
+  wmlib/mixin/
+  wmlib/mixin/WMCameraMixin.class
+  wmlib/util/
+  wmlib/util/ReadableVector.class
+  wmlib/util/ReadableVector2f.class
+  wmlib/util/ReadableVector3f.class
+  wmlib/util/ReadableVector4f.class
+  wmlib/util/ThrowBullet.class
+  wmlib/util/Vec2f.class
+  wmlib/util/Vec3dr.class
+  wmlib/util/Vec3i.class
+  wmlib/util/Vector.class
+  wmlib/util/Vector3f.class
+  wmlib/util/WMEnchantmentHelper.class
+  wmlib/util/WritableVector2f.class
+  wmlib/util/WritableVector3f.class
+  wmlib/util/WritableVector4f.class

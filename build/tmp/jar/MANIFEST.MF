@@ -2,9 +2,9 @@ Manifest-Version: 1.0
 Specification-Title: wmlib
 Specification-Vendor: SAGER1902
 Specification-Version: 1
-Implementation-Title: forge-1.16.5-36.2.39-mdk
+Implementation-Title: war-machine-lib
 Implementation-Version: 1.2
 Implementation-Vendor: SAGER1902
-Implementation-Timestamp: 2026-03-27T12:36:11+0800
+Implementation-Timestamp: 2026-03-27T12:50:49+0800
 MixinConfigs: mixins.wmlib.json
 
