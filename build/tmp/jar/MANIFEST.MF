@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
-Specification-Title: examplemod
-Specification-Vendor: YourNameHere, OtherNameHere
+Specification-Title: wmlib
+Specification-Vendor: SAGER1902
 Specification-Version: 1
-Implementation-Title: forge-1.20.1-47.4.0-mdk
-Implementation-Version: 1.0.0
-Implementation-Vendor: YourNameHere, OtherNameHere
-Implementation-Timestamp: 2026-03-26T22:46:35+0800
+Implementation-Title: forge-1.16.5-36.2.39-mdk
+Implementation-Version: 1.2
+Implementation-Vendor: SAGER1902
+Implementation-Timestamp: 2026-03-27T12:36:11+0800
 MixinConfigs: mixins.wmlib.json
 
